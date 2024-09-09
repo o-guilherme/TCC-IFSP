@@ -164,7 +164,6 @@ cython_debug/
 ##################
 textos/
 json_metadados/
-misc/
 backups/
 dataframes/
 
