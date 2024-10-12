@@ -162,9 +162,9 @@ cython_debug/
 ##################
 #Entradas manuais#
 ##################
-textos/
 json_metadados/
 backups/
 dataframes/
+decisoes_pdf/
 
 ##################
